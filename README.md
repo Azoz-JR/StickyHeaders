@@ -13,3 +13,20 @@ Offering not just one, but three dynamic options to elevate your app's user inte
 - Explore the example app for hands-on experience.
 - Choose the sticky header style that fits your app's aesthetics.
 - Elevate your SwiftUI skills and deliver a polished user experience!
+
+
+## Quick Examples
+- Concurrent Headers
+
+
+https://github.com/Azoz-JR/StickyHeaders/assets/77539943/82ae327b-0c0c-4c55-b69b-bb8134e3aa73
+
+
+
+
+- Pushing Headers
+
+
+https://github.com/Azoz-JR/StickyHeaders/assets/77539943/0f5c4452-b586-456e-ba94-da2649191f02
+
+
