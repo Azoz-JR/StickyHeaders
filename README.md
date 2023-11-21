@@ -16,16 +16,15 @@ Offering not just one, but three dynamic options to elevate your app's user inte
 
 
 ## Quick Examples
-- Concurrent Headers
 
+### 1- Concurrent Headers
 
 https://github.com/Azoz-JR/StickyHeaders/assets/77539943/82ae327b-0c0c-4c55-b69b-bb8134e3aa73
 
 
 
 
-- Pushing Headers
-
+### 2- Pushing Headers
 
 https://github.com/Azoz-JR/StickyHeaders/assets/77539943/0f5c4452-b586-456e-ba94-da2649191f02
 
